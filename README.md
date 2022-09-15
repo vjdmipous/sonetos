@@ -19,7 +19,7 @@ cada soneto. La actividad se centra en UN soneto a escoger de los cinco.
 
 # Identificación del trabajo
  
-En el fichero script.js debe actualizarse la variable uvus con idea de identificar el autor del trabajo
+En el fichero script.js debe actualizarse la variable _uvus_ con idea de identificar el autor del trabajo
 
 
 # Indicaciones
