@@ -5,21 +5,21 @@ Es un proyecto web simple que ofrece un menú lateral donde puede ser selecciona
 La particularidad del proyecto es que cada soneto tiene asociada una hoja de estilo propia. Y cada hoja está incompleta para facilitar la elaboración de un diseño tipográfico y cromático en consonancia con el soneto seleccionado.
 
 
-# CONTENIDO:
+# Contenido
 
-Se incluye
+El proyecto incluye: 
 
 - los ficheros de partida: index.html, script.js y sonetos.js. Los ficheros .js se 
 encargan de mostrar los sonetos en función del botón pulsado.
            
-- una carpeta css con style.css de aplicación general y varias hojas de estilo adicionales para aplicar estilos particulares a cada uno de los sonetos. Estas hojas son  soneto-01.css  soneto-02.css  soneto-03.css  soneto-04.css  soneto-05.css  
+- una carpeta css con _style.css_ de aplicación general y varias hojas de estilo adicionales para aplicar estilos particulares a cada uno de los sonetos. Estas hojas son  _soneto-01.css_  _soneto-02.css_  _soneto-03.css_  _soneto-04.css_  _soneto-05.css_  
 Es decir, los nombres son de la forma soneto-XX.css donde XX es un número que identifica a 
-cada soneto. La actividad se centra en UN soneto a escoger de los cinco.
+cada soneto. La actividad se centra en trabajar en *UN* soneto a escoger de los cinco.
 
 
 # Identificación del trabajo
  
-En el fichero script.js debe actualizarse la variable _uvus_ con idea de identificar el autor del trabajo
+En el fichero _script.js_ debe actualizarse la variable _uvus_ con idea de identificar el autor del trabajo
 
 
 # Indicaciones
